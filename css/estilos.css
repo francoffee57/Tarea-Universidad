@@ -1,0 +1,26 @@
+body{
+	background:url(../img/fondoA.jpg); /*fondo de la pagina */
+	
+	 }
+h1{
+	color:#00AEFF;
+	font-family: Bell MT;
+	font-size:50px;
+	margin:60px 40px;
+}
+img{
+	width:600px;
+}
+a{
+	display:inline-block;
+	margin:10px 10px;
+	padding:10px 20px;
+	background:#005780;
+	color:#4DC6FF;
+	font-synthesis:150px;
+	text-decoration:none;
+}
+ a:hover {
+ 	text-decoration:underline;
+ 	background:#000; 
+ }
